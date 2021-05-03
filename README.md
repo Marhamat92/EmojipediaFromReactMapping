@@ -1,0 +1,2 @@
+# EmojipediaFromReactMapping
+Created with CodeSandbox
